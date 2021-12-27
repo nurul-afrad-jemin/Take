@@ -1,0 +1,14 @@
+@media(max-width: 767px){
+    .footer_left_con h5{
+        margin-top: 30px;
+    }
+}
+@media(max-width: 920px){
+  
+    .slider_img img{
+        display: none;
+    }
+    .slider_con_main .row .col-6:nth-child(1){
+        width: 100%;
+    }
+}
